@@ -1,0 +1,10 @@
+{
+    "name": "Magnetometer_Calibration",
+    "description": "",
+    "keywords": "magnetometer",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/hobbeshunter/Magnetometer_Calibration.git"
+    }
+}
