@@ -3,7 +3,7 @@ This repository contains a platformio library and an explanatory jupyter noteboo
 
 ## Jupyter notebook
 
-Simply run `jupyter notebook` int his folder to start jupyter. Then open the mag_calibration notebook. There you all informations needed.
+Simply run `jupyter notebook` int his folder to start jupyter. Then open the mag_calibration notebook. There you find all informations needed.
 
 ## C++ implementation
 
